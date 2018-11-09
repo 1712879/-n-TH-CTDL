@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sortAlgorithm", "sortAlgorithm\sortAlgorithm.vcxproj", "{F855B1FA-3138-4255-BD3D-3B20F108B13C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F855B1FA-3138-4255-BD3D-3B20F108B13C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F855B1FA-3138-4255-BD3D-3B20F108B13C}.Debug|Win32.Build.0 = Debug|Win32
+		{F855B1FA-3138-4255-BD3D-3B20F108B13C}.Release|Win32.ActiveCfg = Release|Win32
+		{F855B1FA-3138-4255-BD3D-3B20F108B13C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
